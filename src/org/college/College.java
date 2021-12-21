@@ -9,7 +9,8 @@ public class College {
 	
 	private void collegeCode() {
 		// TODO Auto-generated method stub
-		System.out.println("5493");
+		
+		System.out.println("created by perf");
 	}
 	
 	private void collegeRank() {
